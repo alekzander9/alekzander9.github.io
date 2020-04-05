@@ -7,8 +7,7 @@ module.exports = {
       summary: `Data engineer concerned about the state of the world`,
     },
     description: `My blog where I write things that comes to my mind`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {}
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`
   },
   plugins: [
     {
